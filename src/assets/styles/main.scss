@@ -21,7 +21,7 @@
   text-shadow: -3px -3px 4px rgba( 251, 12, 178, 1 ), -4px -4px 1px rgba(10, 14, 39, 1);
 }
 
-@import "variables";
+//@import "variables";
 
 /**
  * Import npm dependencies
@@ -39,7 +39,7 @@
  * It's a best practice to use a partial for each page
  */
 
-@import "layouts/home";
+//@import "layouts/home";
 
 @tailwind utilities;
 /**
